@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1073611298437",
+    "project_id": "wallpapers-specific",
+    "storage_bucket": "wallpapers-specific.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073611298437:android:8f5128f796c1e978d13bec",
+        "android_client_info": {
+          "package_name": "com.lithium.blkpnkwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073611298437-17ld6fifjue6f8l4k8il2hv56vujdue7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs_BD3dep8d8klFcAUET2Q4hpkroXwX-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073611298437-17ld6fifjue6f8l4k8il2hv56vujdue7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073611298437:android:a67bcee1b7cd6da5d13bec",
+        "android_client_info": {
+          "package_name": "com.lithium.singularapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073611298437-17ld6fifjue6f8l4k8il2hv56vujdue7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs_BD3dep8d8klFcAUET2Q4hpkroXwX-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073611298437-17ld6fifjue6f8l4k8il2hv56vujdue7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

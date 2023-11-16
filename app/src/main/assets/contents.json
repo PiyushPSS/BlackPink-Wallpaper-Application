@@ -1,0 +1,693 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "s1",
+      "name": "Sticker Pack - 1",
+      "publisher": "Various Artists",
+      "tray_image_file": "s5.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "s0.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "s1.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "s2.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "s3.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "s4.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "s5.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "s6.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "s7.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "s8.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "s9.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "s10.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "s2",
+      "name": "Sticker Pack - 2",
+      "publisher": "Various Artists",
+      "tray_image_file": "s11.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "s11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "s12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "s13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "s14.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "s15.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "s16.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "s17.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "s18.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "s19.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "s20.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "s21.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "s3",
+      "name": "Sticker Pack - 3",
+      "publisher": "Various Artists",
+      "tray_image_file": "s29.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "s22.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "s23.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "s24.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "s25.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "s26.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "s27.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "s28.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "s29.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "s30.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "s31.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "s32.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "s4",
+      "name": "Sticker Pack - 4",
+      "publisher": "Various Artists",
+      "tray_image_file": "s37.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "s33.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "s34.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "s35.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "s36.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "s37.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "s38.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "s39.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "s40.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "s41.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "s42.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "s43.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "s5",
+      "name": "Sticker Pack - 5",
+      "publisher": "Various Artists",
+      "tray_image_file": "s48.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "s44.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "s45.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "s46.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "s47.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "s48.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "s49.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "s50.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "s51.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "s52.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "s53.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "s54.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "s6",
+      "name": "Sticker Pack - 6",
+      "publisher": "Various Artists",
+      "tray_image_file": "s59.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "s55.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "s56.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "s57.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "s58.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "s59.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "s60.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "s61.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "s62.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "s63.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "s64.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "s65.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "s7",
+      "name": "Sticker Pack - 7",
+      "publisher": "Various Artists",
+      "tray_image_file": "s66.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "s66.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "s67.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "s68.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "s69.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "s70.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "s71.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "s72.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "s73.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "s74.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        }
+      ]
+    }
+  ]
+}
